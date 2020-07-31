@@ -2,6 +2,9 @@
 
 A new Flutter application for TFLITE demo.
 
+# Download APKs
+Goto **build** folder and download the applicable apk for your device.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
