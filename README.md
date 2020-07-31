@@ -1,6 +1,6 @@
-# flutter_tflite_demo
+# flutter_tflite_mobilenet_demo
 
-A new Flutter application for TFLITE demo.
+A new Flutter application for Mobilenet TFLITE demo.
 
 # Download APKs
 Goto **build** folder and download the applicable apk for your device.
